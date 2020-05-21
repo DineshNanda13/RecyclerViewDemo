@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+
+    <string-array name="series">
+        <item>Breaking Bad</item>
+        <item>Game of Thrones</item>
+        <item>Money Heist</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Based on meth</item>
+        <item>Based on a hunt for throne</item>
+        <item>Based on robbery</item>
+    </string-array>
+
+</resources>
